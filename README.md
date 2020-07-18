@@ -28,12 +28,13 @@
   
   Email:  miao188@hotmail.com
 
+## Deployed Video Link
+https://drive.google.com/file/d/12iUPbXujz8X8usiIQQDmHP3MycIzeMR-/view?usp=sharing
+  
 
-  ## Test Preview
+## Test Preview
   ![Alt test preview](./assets/test.png)
 
   ![Alt README_Generator](./assets/README_Template.png)
 
-  ## Deployed Video Link
-https://drive.google.com/file/d/12iUPbXujz8X8usiIQQDmHP3MycIzeMR-/view?usp=sharing
   

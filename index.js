@@ -84,6 +84,7 @@ async function writeToFile(fileName, data){
     }
 };
 
+// function initiation
 function init(){
     inquirer
     .prompt(questions)
@@ -93,6 +94,7 @@ function init(){
     });
 };
 
+// call function init();
 init();
 
 
