@@ -17,11 +17,11 @@
   ## Tests
   ``` node index.js ```
   ## Usage
-  As a developer, create a professional README for a new project
+  as a developer, I want to create a professional README for a new project
   ## License
   ISC
   ## Contributing
-  Arden, Baboola, Cathay, Jeff
+  Arden, Bill, Cathay, Jeff
   ## Questions
   GitHub: https://github.com/miao0007
   

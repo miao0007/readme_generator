@@ -5,7 +5,7 @@
     
   # Good README Generator
   ## Description
-  to create a command-line application that dynamically generates a professional README.md from a user's input using the Inquirer package. Review the Good README guide as a reminder of everything that a quality, professional README contains.
+  To to create a command-line application that dynamically generates a professional README.md from a user's input using the Inquirer package. Review the Good README guide as a reminder of everything that a quality, professional README contains.
   ## Table of Contents
   * [License](#license)
   * [Installation](#installation)
@@ -18,7 +18,7 @@
   ## Tests
   ``` node index.js ```
   ## Usage
-  As a developer, create a professional README for a new project
+  As a developer, I want to use this app to create a professional README for a new project
   ## License
   ISC
   ## Contributing
@@ -34,4 +34,6 @@
 
   ![Alt README_Generator](./assets/README_Template.png)
 
+  ## Deployed Video Link
+https://drive.google.com/file/d/12iUPbXujz8X8usiIQQDmHP3MycIzeMR-/view?usp=sharing
   
