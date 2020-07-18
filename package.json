@@ -21,5 +21,9 @@
   "bugs": {
     "url": "https://github.com/miao0007/readme_generator/issues"
   },
-  "homepage": "https://github.com/miao0007/readme_generator#readme"
+  "homepage": "https://github.com/miao0007/readme_generator#readme",
+  
+  "dependencies": {
+    "inquirer": "^6.3.1"
+  }
 }
