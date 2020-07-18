@@ -27,6 +27,7 @@ function generateMarkdown(data) {
   ${data.contributing}
   ## Questions
   GitHub: https://github.com/${data.username}
+  
   Email:  ${data.email}
   `
   };

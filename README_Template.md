@@ -1,9 +1,10 @@
 
+    
   ![GitHub](https://img.shields.io/badge/license-ISC-blue)
     
-  # readme generator
+  # eee
   ## Description
-  Create a command-line application that dynamically generates a README.md from a user's input.
+  eee
   ## Table of Contents
   * [License](#license)
   * [Installation](#installation)
@@ -12,16 +13,17 @@
   * [Contributing](#contribution)
   * [Questions](#questions)
   ## Installation
-  ``` npm init npm install ```
+  ``` eee ```
   ## Tests
-  ``` node index.js ```
+  ``` eee ```
   ## Usage
-  for developer who want to write a project description
+  eee
   ## License
   ISC
   ## Contributing
-  bill bob jeff sarah
+  eee
   ## Questions
   GitHub: https://github.com/miao0007
-  My Email:  miao188@hotmail.com
+  
+  Email:  miao188@hotmail.com
   
